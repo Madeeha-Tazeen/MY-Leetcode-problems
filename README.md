@@ -7,6 +7,7 @@ leet code problems solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,4 +16,12 @@ leet code problems solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
