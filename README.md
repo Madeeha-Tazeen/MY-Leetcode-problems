@@ -7,6 +7,7 @@ leet code problems solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -24,4 +25,12 @@ leet code problems solved
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
