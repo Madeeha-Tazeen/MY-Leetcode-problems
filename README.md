@@ -8,6 +8,7 @@ leet code problems solved
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -20,6 +21,7 @@ leet code problems solved
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -33,4 +35,8 @@ leet code problems solved
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
