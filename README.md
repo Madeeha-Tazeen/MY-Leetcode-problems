@@ -39,4 +39,16 @@ leet code problems solved
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Madeeha-Tazeen/MY-Leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
